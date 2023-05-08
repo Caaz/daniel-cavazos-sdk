@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="daniel-cavazos-sdk",
-    version="0.0.2",
+    version="0.1.0",
     author="Daniel Cavazos",
     author_email="dcaazy@gmail.com",
     description="Accesses The One API",
